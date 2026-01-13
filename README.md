@@ -20,7 +20,8 @@ This repository is created to practice Git and GitHub.
 
 ## Files
 - README.md – File documentation
-- sum.py – Simple Python Program for Addition 
+- sum.py – Simple Python Program for Addition
+- hello.py – Simple python program 
 
 ## Tools Used
 - Git
