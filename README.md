@@ -21,7 +21,8 @@ This repository is created to practice Git and GitHub.
 ## Files
 - README.md – File documentation
 - sum.py – Simple Python Program for Addition
-- hello.py – Simple python program 
+- hello.py – Simple python program for Hello World
+- fibonacci_series.py – Fibonacci series using python
 
 ## Tools Used
 - Git
